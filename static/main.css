@@ -47,7 +47,7 @@ body{
 }
 #sidemenu{
     padding-top: 10px;
-    width:250px;
+    width:0px;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     position:absolute;
