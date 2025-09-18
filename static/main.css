@@ -6,7 +6,6 @@ body {
     margin-top: 24px;
     justify-content: center;
     align-items: center;
-    /*background: linear-gradient(rgb(0, 89, 179),rgb(0, 18, 119));*/
     background: linear-gradient(rgb(56, 128, 209),rgb(120, 87, 240));
     background-size: cover;
     background-size: no-repeat;
@@ -34,3 +33,4 @@ textarea {
     box-shadow: 0 4px 16px rgba(0,0,0,0.4);
 
 }
+
